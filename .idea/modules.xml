@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaZaawansowanaCwiczeniaNumerDwa.iml" filepath="$PROJECT_DIR$/JavaZaawansowanaCwiczeniaNumerDwa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaPodstawowe/ZadaniaPodstawowe.iml" filepath="$PROJECT_DIR$/ZadaniaPodstawowe/ZadaniaPodstawowe.iml" />
+    </modules>
+  </component>
+</project>
