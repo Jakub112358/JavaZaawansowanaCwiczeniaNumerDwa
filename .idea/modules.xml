@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaZaawansowanaCwiczeniaNumerDwa.iml" filepath="$PROJECT_DIR$/JavaZaawansowanaCwiczeniaNumerDwa.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZadaniaPodstawowe/ZadaniaPodstawowe.iml" filepath="$PROJECT_DIR$/ZadaniaPodstawowe/ZadaniaPodstawowe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZadaniaZaawansowane/ZadaniaZaawansowane.iml" filepath="$PROJECT_DIR$/ZadaniaZaawansowane/ZadaniaZaawansowane.iml" />
     </modules>
   </component>
 </project>
